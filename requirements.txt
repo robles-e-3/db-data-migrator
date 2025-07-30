@@ -1,0 +1,7 @@
+Flask
+requests
+pytest
+pyodbc
+mysql-connector-python
+azure-storage-blob
+python-dotenv
